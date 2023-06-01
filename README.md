@@ -1,4 +1,4 @@
-                   College Management System
+                                                     College Management System
 
 This is an application developed for a college for maintaining information related to various activities in the college.
 
