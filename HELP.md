@@ -1,10 +1,27 @@
-# Getting Started
+                                College Management System
 
-### Reference Documentation
+This is an application developed for a college for maintaining information related to various activities in the college.
 
-For further reference, please consider the following sections:
+MODULES
+- Tech Stacks
+- Features
+- Installation and Run
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.0/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.0/maven-plugin/reference/html/#build-image)
+Tech Stacks
+- Java
+- Spring Boot
+- Lombok
+- PostgreSQL
+- Hibernate
+- Spring MVC
 
+Features
+- Register college
+- Get the list of colleges accompanying their details
+- Get the college details by course name
+
+Installation and Run
+You can clone the repository:
+<br>`git clone https://github.com/khurshidbek-bakhromjonov/app-college-management.git`
+
+Make sure updating application.properties file before running API server
